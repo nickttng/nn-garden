@@ -8,8 +8,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### To add
 
-- A link to a Figma file, showcasing how the site will evolve
-- Implement a system for digital graden
+- Describe what is a digital garden
+- A link to a Figma file, showing how the site will evolve
+- Implement a system for digital garden
 
 ## [1.0.0] - 2021 February
 
